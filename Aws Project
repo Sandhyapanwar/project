@@ -7,7 +7,7 @@ Data  sources:
 problem Statement : We have airport data (master data) and  flight data(delta data). we want to know  flight which are dealyed by 
 60 minutes .
 
-Tech Stack used : AWS S3, Redshift , AWS Glue (ETL Jobs, Crawler), Step Function ,AWS SNS.
-Project demo :  https://drive.google.com/drive/folders/1GQHX-zb6EJdTsks4AxBS6C0PC9hDuaTr?usp=drive_link/
+Tech Stack used : AWS S3, Redshift , AWS Glue (ETL Jobs, Crawler), Step Function ,AWS SNS, IAM.
+Project demo :  https://drive.google.com/drive/folders/1GQHX-zb6EJdTsks4AxBS6C0PC9hDuaTr?usp=drive_link
 
 
